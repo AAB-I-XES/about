@@ -36,7 +36,7 @@ Here’s what I’ve already built and shipped:
   https://aabixes.vercel.app
 
 * 🧠 **Experiences**
-  https://experiences.vercel.app
+  https://aabixesexperiences.vercel.app
 
 ---
 
